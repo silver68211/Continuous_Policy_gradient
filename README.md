@@ -178,9 +178,11 @@ MIT License (recommended for reuse).
 
 ---
 
-## Acknowledgments
+## Contact
 
-This project is inspired by classic REINFORCE / policy gradient baselines and uses TensorFlow Probability distributions for stable log-prob evaluation.
+For questions, suggestions, or collaboration inquiries, please open a GitHub issue.
 
----
+For direct communication, please email:
+hnksm@connect.ust.hk
+
 
