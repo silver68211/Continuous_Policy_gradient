@@ -23,7 +23,7 @@ This repo is intended as a **minimal research/educational baseline** you can ada
 .
 ├── network_con.py        # ConPolicyGrad policy network (mu + optional var/std)
 ├── con_reinforce.py      # Agent (REINFORCE) with trajectory memory + update
-├── train.py              # Training loop (example)
+├── con_main.py              # Training loop (example)
 └── utils.py              # plot_learning() helper
 ```
 
